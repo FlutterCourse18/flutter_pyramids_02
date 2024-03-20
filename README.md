@@ -1,16 +1,1 @@
-# flutter_hw_02
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Снимок экрана 2024-03-20 185107](https://github.com/FlutterCourse18/flutter_pyramids_01/assets/103981549/a2e37dd1-3547-4911-9f5d-2c9f3561d5ed)
